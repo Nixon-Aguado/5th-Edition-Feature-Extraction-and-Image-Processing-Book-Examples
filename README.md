@@ -1,7 +1,7 @@
 ## *Feature Extraction and Image Processing in Computer Vision (5<sup>th</sup> Edition)*
 
 
-<img src="https://github.com/Nixon-Aguado/5th-Edition-Feature-Extraction-and-Image-Processing-Book-Examples/Images/BookCover.PNG" width="200"  />
+<img src="https://github.com/Nixon-Aguado/Feature-Extraction-and-Image-Processing-Book-Examples/blob/master/Images/Front%20Cover.png" width="200"  />
 
 
 
