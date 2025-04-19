@@ -3,6 +3,8 @@
 
 <img src="https://github.com/Nixon-Aguado/5th-Edition-Feature-Extraction-and-Image-Processing-Book-Examples/Images/BookCover.JPG" width="200"  />
 
+s
+
 
 Python examples for Feature Extraction and Image Processing in Computer Vision by Mark S. Nixon & Alberto S. Aguado
 
