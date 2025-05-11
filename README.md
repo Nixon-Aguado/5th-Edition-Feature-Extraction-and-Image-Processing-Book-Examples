@@ -1,9 +1,11 @@
 ## *Feature Extraction and Image Processing in Computer Vision (5<sup>th</sup> Edition)*
 
+<p>
 
 <img src="https://github.com/Nixon-Aguado/5th-Edition-Feature-Extraction-and-Image-Processing-Book-Examples/blob/main/Images/BookCover.png" width="200"  />
 
-<img src="https://github.com/Nixon-Aguado/5th-Edition-Feature-Extraction-and-Image-Processing-Book-Examples/blob/main/Images/Contents Page 1.jpg" width="200"  />
+<img src="https://github.com/Nixon-Aguado/5th-Edition-Feature-Extraction-and-Image-Processing-Book-Examples/blob/main/Images/ContentsPg1.PNG" width="200"  />
+</p>
 
 Python examples for Feature Extraction and Image Processing in Computer Vision by Mark S. Nixon & Alberto S. Aguado
 
