@@ -74,13 +74,8 @@ for u in range(-maxFreqW, maxFreqW + 1):
             coeff[entryH, entryW][0] += sumY[0] * cos(x * ww * u) - sumY[1] * sin(x * ww * u)
             coeff[entryH, entryW][1] -= cos(x * ww * u) * sumY[1] + sin(x * ww * u) * sumY[0]
 
-for kw in range(-maxFreqW, maxFreqW + 1):
-    printProgress(kw + maxFreqW, numCoeffW)
-    entryW = kw + maxFreqW 
-    for kh in range(-maxFreqH, maxFreqH + 1):
-        entryH = kh + maxFreqH
-        coeff[entryH, entryW][0] *= m*n 
-        coeff[entryH, entryW][1] *= m*n
+        coeff[entryH, entryW][0] /= m*n 
+        coeff[entryH, entryW][1] /= m*n
 
 # Reconstruction
 reconstruction = createImageF(width, height)
