@@ -43,12 +43,21 @@ def imageReadL(fileName):
 
     inputArray = array(inputImage)
     outputArray = zeros((height, width), dtype='uint8')
+
+    if inputImage.mode == 'L':
+
+        # Combine pixel values, for each row and column
+        for y in range(0, height):
+            for x in range(0, width):  
+                outputArray[y,x] = inputArray[y,x]
+
+    else:
     
-    # Combine pixel values, for each row and column
-    for y in range(0, height):
-        for x in range(0, width):  
-            rgb = inputArray[y,x]     
-            outputArray[y,x] = (int(rgb[0]) + int(rgb[1]) + int(rgb[2])) / 3
+        # Combine pixel values, for each row and column
+        for y in range(0, height):
+            for x in range(0, width):  
+                rgb = inputArray[y,x]     
+                outputArray[y,x] = (int(rgb[0]) + int(rgb[1]) + int(rgb[2])) / 3
 
     return outputArray, width, height
 
