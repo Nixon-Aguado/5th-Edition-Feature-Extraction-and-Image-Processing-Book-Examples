@@ -22,7 +22,7 @@ In the [book home page](https://www.southampton.ac.uk/~msn/book/) you'll find ex
 ## Python Installation of dependencies:
 
 ##### Examples require Python 3.12.8 https://www.python.org/downloads/
-Note that, in order to run the examples in visual studio, it is necessary to choose tcl/tk and IDLE options during the Phyton installation
+Note that, in order to run the examples in visual studio, it is necessary to choose tcl/tk and IDLE options during the Python installation
 
 ##### Dependencies can be installed with pip. <br/>
 - To install pip: https://www.geeksforgeeks.org/how-to-install-pip-on-windows/ <br/>
