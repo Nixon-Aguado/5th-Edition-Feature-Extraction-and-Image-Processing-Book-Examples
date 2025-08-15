@@ -2,15 +2,15 @@
 
 <p>
 
-<img src="https://github.com/Nixon-Aguado/5th-Edition-Feature-Extraction-and-Image-Processing-Book-Examples/blob/main/Images/BookCover.png" width="200"  />
+<img src="https://github.com/Nixon-Aguado/5th-Edition-Feature-Extraction-and-Image-Processing-Book-Examples/blob/main/ReadmeImages/BookCover.png" width="200"  />
 
-<img src="https://github.com/Nixon-Aguado/5th-Edition-Feature-Extraction-and-Image-Processing-Book-Examples/blob/main/Images/Contents.png" width="200"  />
+<img src="https://github.com/Nixon-Aguado/5th-Edition-Feature-Extraction-and-Image-Processing-Book-Examples/blob/main/ReadmeImages/Contents.png" width="200"  />
 </p>
 
 <p>
-<img src="https://github.com/Nixon-Aguado/5th-Edition-Feature-Extraction-and-Image-Processing-Book-Examples/blob/main/Images/c1.png" width="200"  />
+<img src="https://github.com/Nixon-Aguado/5th-Edition-Feature-Extraction-and-Image-Processing-Book-Examples/blob/main/ReadmeImages/c1.png" width="200"  />
 
-<img src="https://github.com/Nixon-Aguado/5th-Edition-Feature-Extraction-and-Image-Processing-Book-Examples/blob/main/Images/c2.png" width="200"  />
+<img src="https://github.com/Nixon-Aguado/5th-Edition-Feature-Extraction-and-Image-Processing-Book-Examples/blob/main/ReadmeImages/c2.png" width="200"  />
 </p>
 
 Python and Matlab examples for Feature Extraction and Image Processing in Computer Vision by Mark S. Nixon & Alberto S. Aguado
